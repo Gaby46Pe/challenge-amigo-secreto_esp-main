@@ -18,17 +18,21 @@ A continuación se detallan sus principales funcionalidades:
 ### Capturas
 
 #### Agregar nombres
-
+<p align="center">
 <img src="assets/agregaNombre.jpg" alt="Agregar nombres" width="300"/>
+</p>
 
 #### Nombre Agregado 
-
-<img src="assets/agregaNombre.jpg" alt="Agregar nombres" width="300"/>
+<p align="center">
+<img src="assets/agregadoNombre.jpg" alt="Agregar nombres" width="300"/>
+</p>
 
 #### Realizar el sorteo
-
+<p align="center">
 <img src="assets/participantes.jpg" alt="Sortear amigo" width="300"/>
+</p>
 
 #### Amigo Sorteado
-
+<p align="center">
 <img src="assets/sorteo.jpg" alt="Sortear amigo" width="300"/>
+</p>
