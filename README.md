@@ -21,8 +21,13 @@ A continuación se detallan sus principales funcionalidades:
 
 ![Agregar nombres](assets/agregaNombre.jpg)
 ![Agregar nombres](assets/agregadoNombre.jpg)
-
+<img src="assets/agregaNombre.jpg" alt="Agregar nombres" width="100"/>
+<img src="assets/agregaNombre.jpg" alt="Agregar nombres" width="100"/>
 #### Realizar el sorteo
 
 ![Sortear amigo](assets/participantes.jpg)
 ![Sortear amigo](assets/sorteo.jpg)
+
+x
+<img src="assets/participantes.jpg" alt="Sortear amigo" width="100"/>
+<img src="assets/sorteo.jpg" alt="Sortear amigo" width="100"/>
