@@ -19,8 +19,8 @@ A continuación se detallan sus principales funcionalidades:
 
 #### Agregar nombres
 
-![Agregar nombres](assets/agrega-nombre.jpg)
-![Agregar nombres](assets/agregado-nombre.jpg)
+![Agregar nombres](assets/agregaNombre.jpg)
+![Agregar nombres](assets/agregadoNombre.jpg)
 
 #### Realizar el sorteo
 
