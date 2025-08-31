@@ -14,3 +14,15 @@ A continuación se detallan sus principales funcionalidades:
 ### 2. Sortear un amigo secreto
 - Una vez agregados los nombres, el usuario puede hacer clic en el botón "Sortear amigo".
 - Se selecciona aleatoriamente uno de los nombres de la lista y se muestra el resultado en pantalla.
+
+### Capturas
+
+#### Agregar nombres
+
+![Agregar nombres](assets/agrega-nombre.jpg)
+![Agregar nombres](assets/agregado-nombre.jpg)
+
+#### Realizar el sorteo
+
+![Sortear amigo](assets/participantes.jpg)
+![Sortear amigo](assets/sorteo.jpg)
